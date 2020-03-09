@@ -1,0 +1,12 @@
+{
+    "env": {
+        "browser": true
+    },
+    "extends": ["recommended/esnext", "prettier"],
+    "rules": {
+        "no-debugger": 0,
+        "no-console": 0,
+        "no-unused-vars": 1,
+        "import/no-unresolved": [2, { "ignore": ["^//dev.jspm.io"] }]
+    }
+}

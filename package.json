@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "name": "tag-graphs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sladi Ri",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-config-recommended": "^4.0.0",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {}
+}
